@@ -1,28 +1,5 @@
-# php-getting-started
+# Owls!
 
-A barebones PHP app that makes use of the [Silex](http://silex.sensiolabs.org/) web framework, which can easily be deployed to Heroku.
+For this assignment, you need to create a basic bootstrap based web page using the heroku getting started project, you downloaded in the previous unit.  This web page can be about any topic, however, it needs to include a bootstrap html table with at least 5 rows and 4 columns, it should include at least one hyperlink, and at least three paragraphs of text.  In the current configuration of your project, you cannot have additional pages.  You can only make one page, later we will use multiple pages through a different method called routing.  The main objective for this week is just to become familiar with your editor, making commits, and deploying to Heroku.  If you have never made a Bootstrap page, it is also a chance to learn that.  We will be using Bootstrap throughout the course and learning a little bit as we go.   Please watch the video for this week because I will show you how to break the Bootstrap code into pieces and include them in the layout / nav / index files of twig. 
 
-This application supports the [Getting Started with PHP on Heroku](https://devcenter.heroku.com/articles/getting-started-with-php) article - check it out.
-
-## Deploying
-
-Install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
-
-```sh
-$ git clone git@github.com:heroku/php-getting-started.git # or clone your own fork
-$ cd php-getting-started
-$ heroku create
-$ git push heroku master
-$ heroku open
-```
-
-or
-
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
-## Documentation
-
-For more information about using PHP on Heroku, see these Dev Center articles:
-
-- [Getting Started with PHP on Heroku](https://devcenter.heroku.com/articles/getting-started-with-php)
-- [PHP on Heroku](https://devcenter.heroku.com/categories/php)
+You need to submit a link to your project and a screenshot of your commit history.  Your commit history should have at least 5 commits and each commit should have a meaningful message that explains what you did in that step.
